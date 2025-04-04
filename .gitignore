@@ -173,3 +173,6 @@ cython_debug/
 # No data file
 data/*.csv
 data/*.txt
+
+# No tmp folder
+**/tmp/*
